@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redux-cake-shop/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/redux-cake-shop/static/js/main.32e89f7e.chunk.js",
+    "main.js.map": "/redux-cake-shop/static/js/main.32e89f7e.chunk.js.map",
+    "runtime-main.js": "/redux-cake-shop/static/js/runtime-main.640e5575.js",
+    "runtime-main.js.map": "/redux-cake-shop/static/js/runtime-main.640e5575.js.map",
+    "static/js/2.80b58d39.chunk.js": "/redux-cake-shop/static/js/2.80b58d39.chunk.js",
+    "static/js/2.80b58d39.chunk.js.map": "/redux-cake-shop/static/js/2.80b58d39.chunk.js.map",
+    "index.html": "/redux-cake-shop/index.html",
+    "precache-manifest.21293d954362c35994a99db33070ace9.js": "/redux-cake-shop/precache-manifest.21293d954362c35994a99db33070ace9.js",
+    "service-worker.js": "/redux-cake-shop/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/redux-cake-shop/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.80b58d39.chunk.js.LICENSE.txt": "/redux-cake-shop/static/js/2.80b58d39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.640e5575.js",
+    "static/js/2.80b58d39.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.32e89f7e.chunk.js"
+  ]
+}
